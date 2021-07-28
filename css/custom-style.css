@@ -1,0 +1,43 @@
+/* google font */
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@400;500&display=swap');
+
+.bg-color{ 
+    background-color:#E5E5E5;
+}
+.banner-bg{
+    background: #FFF9F4;
+
+}
+.banner-title{
+    font-family: 'Bebas Neue', cursive;
+}
+.banner-nike-react-and-price-color{
+    color: #FA804C
+
+}
+.w-space{
+    word-spacing: 2px;
+}
+.buy-now-btn{
+    width: 7rem; 
+    height: 2.5rem;
+    color: white;
+    background: linear-gradient(180deg, #3D4FF3 0%, #3543BC 100%);
+
+}
+.main-bg{
+    background-color: white;
+
+}
+.img-bg{
+    width: 334px;
+    height: 327px;
+    background: #F1F1F1;
+
+
+}
+.crd-title{
+    color: #363958;
+    font-family: 'Roboto', sans-serif;
+}
